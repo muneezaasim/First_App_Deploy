@@ -1,7 +1,7 @@
 !/bin/bash
 
 USERNAME="muneezaasim"
-TOKEN="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"
+TOKEN="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"
 REPO_NAME="First_App_Deploy"
 
 
